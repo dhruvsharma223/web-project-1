@@ -1,0 +1,17 @@
+.main_menu{
+    color: #fff;
+    margin-bottom: 140px;
+}
+.navbar-toggler{
+    background-color: #fff;
+    
+}
+.navbar-toggler-icon{
+    background-color: bisque;
+}
+.navbar li{
+    margin-left: 2rem;
+}
+.navbar a:hover{
+    color: #fff;
+}
